@@ -6,6 +6,7 @@ namespace Work2
     {
         static void Main(string[] args)
         {
+            // Треугольник паскаля
             Console.Write("Введите количество строк : ");
             int n = int.Parse(Console.ReadLine());
 

@@ -9,6 +9,7 @@ namespace Matrix
     {
         static void Main(string[] args)
         {
+            //Матрицы
             Console.WriteLine("Умножение матричы на число");
 
             Console.Write("Введите количество столбцов: ");
